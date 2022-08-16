@@ -118,3 +118,24 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=yasinsutoglu&theme=react-dark" />
   </a>
 </div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
+
+<p align="center">
+	<a href="https://github.com/yasinsutoglu"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/yasin-sutoglu-88066620b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>	
+</p>
+
+<p align="center"><b> Thank You for visiting my profile 🙏</b></p>
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yasinsutoglu}/count.svg" /></p> 
+<br>
+</div>
