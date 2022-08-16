@@ -1,7 +1,7 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+SUTOGLU;Welcome+to+my+Github+profile;I'm+Front-End+Developer...;)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://github.com/yasinsutoglu"><img src="imgs/github.svg" alt="GitHub"></a>
+<a href="https://github.com/yasinsutoglu"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/yasin-sutoglu-88066620b/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a> <img src="https://komarev.com/ghpvc/?username=yasinsutoglu" alt="visitor counter"/>
 </p>
 
