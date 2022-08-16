@@ -5,28 +5,103 @@
 <a href="https://yasinsutoglu.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yasinsutoglu" alt="visitor counter"/>
 </p>
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800" height="400">
+  
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<br>
+<p align="left">
+<!--     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
+            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
+            alt="android studio" width="40" height="40" /> </a> -->
+    <!-- <a href="https://angular.io/" target="_blank" title ="Angular"> <img
+            src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
+            alt="angular" width="40" height="40" /> </a> -->
+   <!--  <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
+            src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
+            alt="azure" width="50" height="35" /> </a> -->
+<!--     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
+            src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
+            alt="aws" width="40" height="40" /> </a> -->
+    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a>
+<!--     <a href="https://bootstrapstudio.io/" target="_blank" title ="bootstrap studio"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/768px-Bootstrap_Studio_Logo.png"
+            alt="bootstrap studio" width="40" height="40" /> </a> -->
+<!--     <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a> -->
+<!--     <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a> -->
+    <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a>
+<!--     <a href="https://ejs.co/" target="_blank" title ="EJS"> <img
+            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="Ejs" width="40"
+            height="40" /> </a> -->
+<!--     <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
+            src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
+            alt="express" width="40" height="40" /> </a> -->
+<!--     <a href="https://git-scm.com/" target="_blank" title ="git"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> -->
+<!--     <a href="https://heroku.com" target="_blank" title ="heroku"> 
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+            alt="heroku" width="40" height="40" /> </a> -->
+    <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a>
+<!--     <a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
+            src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"
+            alt="ionic" width="40" height="40" /> </a> -->
+<!--     <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
+            src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
+            alt="java" width="40" height="40" /> </a> -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a>
+<!--     <a href="https://jwt.io/" target="_blank" title ="JWT"> <img
+            src="https://jwt.io/img/pic_logo.svg"
+            alt="JWT" width="40" height="40" /> </a> -->
+    <!-- <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a> -->
+    <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a>
+<!--     <a href="https://postman.com" target="_blank" title ="Postman"> <img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+            height="40" /> </a> -->
+    <!-- <a href="https://www.python.org" target="_blank" title ="Python"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a> -->
+    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a>
+<!--     <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
+            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
+            alt="tkinter" width="40" height="40" /> </a> -->
+<!--     <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
+            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
+            alt="typescript" width="40" height="40" /> </a> -->
+<!--     <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
+            src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
+            alt="unreal engine" width="40" height="40" /> </a> -->
+<!--     <a href="https://www.xml.com/" target="_blank" title ="XML"> <img
+            src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"
+            alt="XML" width="40" height="40" /> </a> -->
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
+ <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
+<a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260916-8472f064-1a1e-4689-99f8-be5f4d5eac56.png" alt="gitHub" height="30"/> </a>
+ <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="30"/> </a>
+</p>
+
+</p> 
