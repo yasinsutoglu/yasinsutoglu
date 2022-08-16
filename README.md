@@ -1,21 +1,15 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+SUTOGLU;Welcome+to+my+Github+profile;I'm+Front-End+Developer...;)](https://git.io/typing-svg)
 
-##### NOW
+##### SHORT BIO
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
-
-##### BIO
-
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🏢 I'm currently working at **Freelancer Developer**
+- 👨‍💻 I has worked as a System Engineer in Defence Industry
+- ⚙️ I use daily: `js`, `html`, `css`,  `react`, `sass`, `bootstrap`, `vscode`
+- 🌍 I'm mostly active within the **Clarusway Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 💬 Ping me about  **JS Development**, **Design thinking** ,**System Engineering**
+- 📫 Reach me: [twitter.com/YsnStgl](https://twitter.com/YsnStgl)
+- 💗💛 Fun fact: I'm a huge fan of Galatasaray
 
 
 <p align="center">
