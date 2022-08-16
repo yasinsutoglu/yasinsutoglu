@@ -1,9 +1,21 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+SUTOGLU;Welcome+to+my+Github+profile;I'm+Front-End+Developer...;)](https://git.io/typing-svg)
 
-<p align="center">
-<a href="https://github.com/yasinsutoglu"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"  width="100px" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/yasin-sutoglu-88066620b/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a> <img src="https://komarev.com/ghpvc/?username=yasinsutoglu" alt="visitor counter"/>
-</p>
+##### NOW
+
+- ✨ Crafted last [Laracon Online](https://laracon.net) website;
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Medicare Portugal**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 
 <p align="center">
