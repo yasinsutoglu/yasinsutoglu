@@ -112,3 +112,9 @@
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinsutoglu&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > 
   </p>
+
+  <div align="center">
+  <a href="#">
+    <img src="https://activity-graph.herokuapp.com/graph?username=yasinsutoglu&theme=react-dark" />
+  </a>
+</div>
