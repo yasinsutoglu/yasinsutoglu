@@ -5,7 +5,7 @@
 - 🏢 I'm currently working at **Freelancer Developer**
 - 👨‍💻 I has worked as a System Engineer in Defence Industry
 - ⚙️ I use daily: `js`, `html`, `css`,  `react`, `sass`, `bootstrap`, `vscode`
-- 🌍 I'm mostly active within the **Clarusway Community**
+- 🌍 I'm mostly active within the **Kodluyoruz Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about  **JS Development**, **Design thinking** ,**System Engineering**
 - 📫 Reach me: [twitter.com/YsnStgl](https://twitter.com/YsnStgl)
