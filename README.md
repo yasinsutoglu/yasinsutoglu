@@ -2,7 +2,7 @@
 
 ##### SHORT BIO
 
-- 🏢 I'm currently working at **Freelancer Developer**
+- 🏢 I'm currently working as **Freelancer Developer**
 - 👨‍💻 I has worked as a System Engineer in Defence Industry
 - ⚙️ I use daily: `js`, `html`, `css`,  `react`, `sass`, `bootstrap`, `vscode`
 - 🌍 I'm mostly active within the **Kodluyoruz Community**
