@@ -9,7 +9,7 @@
 - 🌱 Learning all about **Open Source**
 - 🌱 Currently learning about **Next.js , Node.js , React Native**
 - 💬 Ping me about  **JS, React, Node.js Development**,
-- 📫 Reach me: [ysutoglu@gmail.com]
+- 📫 Reach me: **ysutoglu@gmail.com**
 - 💗💛 Fun fact: I'm a huge fan of Galatasaray
 
 
