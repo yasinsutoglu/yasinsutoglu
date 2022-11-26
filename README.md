@@ -7,9 +7,11 @@
 - ⚙️ I use daily: `js`, `html`, `css`,  `react`, `sass`, `bootstrap`, `vscode`
 - 🌍 I'm mostly active within the **Kodluyoruz Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about  **JS Development**, **Design thinking** ,**System Engineering**
-- 📫 Reach me: [twitter.com/YsnStgl](https://twitter.com/YsnStgl)
+- 🌱 Currently learning about **Next.js , Node.js , React Native**
+- 💬 Ping me about  **JS, React, Node.js Development**,
+- 📫 Reach me: [ysutoglu@gmail.com]
 - 💗💛 Fun fact: I'm a huge fan of Galatasaray
+
 
 
 <p align="center">
