@@ -2,14 +2,14 @@
 
 ##### SHORT BIO
 
-- 🏢 I'm currently working as **Freelancer Developer**
+- 🏢 I'm currently working as **FullStack Developer(MERN)**
 - 👨‍💻 I has worked as a System Engineer in Defence Industry
-- ⚙️ I use daily: `js`, `html`, `css`,  `react`, `sass`, `bootstrap`, `vscode`
-- 🌍 I'm mostly active within the **Kodluyoruz Community**
+- ⚙️ I use daily: `js`, `html`, `css`,  `react`, `sass`, `bootstrap`, `vscode` , `react` , `node.js`, `linux`
+- 🌍 I'm rarely active within the **Kodluyoruz Community**
 - 🌱 Learning all about **Open Source**
-- 🌱 Currently learning about **Next.js , Typescript , Node.js**
+- 🌱 Currently learning about **Next.js, Linux**
 - 💬 Ping me about  **JS, React, Node.js Development**,
-- 📫 Reach me: **ysutoglu@gmail.com**
+- 📫 Reach me from LinkedIn account
 - 💗💛 Fun fact: I'm a huge fan of Galatasaray
 
 
