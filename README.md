@@ -1,14 +1,14 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+SUTOGLU;Welcome+to+my+Github+profile;I'm+Full-Stack+Developer...;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+SUTOGLU;Welcome+to+my+Github+profile;I'm+Software+Developer...;)](https://git.io/typing-svg)
 
 ##### SHORT BIO
 
-- 🏢 I'm currently working as **FullStack Developer(MERN)**
+- 🏢 I'm currently working as **FullStack Developer(.NET & Angular)** in Finance Sector and **AI Engineer Candidate**
 - 👨‍💻 I has worked as a System Engineer in Defence Industry
-- ⚙️ I use daily: `js`, `html`, `css`,  `react`, `sass`, `bootstrap`, `vscode` , `react` , `node.js`, `linux`
-- 🌍 I'm rarely active within the **Kodluyoruz Community**
+- ⚙️ I use daily: `js`, `html`, `css`,  `angular`, `.Net Core`, `bootstrap`, `vscode` , `AzureDevops` , `linux`
+- 🌍 I'm rarely active within the **Kodluyoruz Community** and active within the **UPOD Community**
 - 🌱 Learning all about **Open Source**
-- 🌱 Currently learning about **Next.js, Linux**
-- 💬 Ping me about  **JS, React, Node.js Development**,
+- 🌱 Currently learning about **Python, Machine Learning**
+- 💬 Ping me about  **JavaScript, React.js, Node.js, C# , .NET Core, Angular.js , Python and AI Development**,
 - 📫 Reach me from LinkedIn account
 - 💗💛 Fun fact: I'm a huge fan of Galatasaray
 
