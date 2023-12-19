@@ -5,7 +5,7 @@
 - 🏢 I'm currently working as **FullStack Developer(.NET & Angular)** in Finance Sector and **AI Engineer Candidate**
 - 👨‍💻 I has worked as a System Engineer in Defence Industry
 - ⚙️ I use daily: `js`, `html`, `css`,  `angular`, `.Net Core`, `bootstrap`, `vscode` , `AzureDevops` , `linux`
-- 🌍 I'm rarely active within the **Kodluyoruz Community** and active within the **UPOD Community**
+- 🌍 I'm rarely active within the **Kodluyoruz Community** and active within the **Miuul Community**
 - 🌱 Learning all about **Open Source**
 - 🌱 Currently learning about **Python, Machine Learning**
 - 💬 Ping me about  **JavaScript, React.js, Node.js, C# , .NET Core, Angular.js , Python and AI Development**,
