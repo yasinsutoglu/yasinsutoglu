@@ -2,16 +2,14 @@
 
 ##### SHORT BIO
 
-- 🏢 I'm currently working as **Freelance Data Analyst/Scientist**.
+- 🏢 I'm currently working as **Freelance Data Scientist/AI Engineer on DL speciality**.
 - 👨‍💻 I had worked as a System Engineer in Defence Industry before having continued in Software Career.
-- ⚙️ I use daily: `js`, `react.js`, `Python`, `pycharm`, `vscode` , `AzureDevops` , `linux`, `PostgreSQL`, `Docker&Kubernetes`
+- ⚙️ I use daily: `js`, `react.js`, `Python`,  `GoogleColab`, `pycharm`, `vscode` , `AzureDevops` , `linux`, `PostgreSQL`, `Docker&Kubernetes`. 
 - 🌍 I'm rarely active within the **Kodluyoruz Community** and **Miuul Community**
 - 🌱 Learning all about **Open Source**
-- 🌱 Currently learning about **DeepLearning, LLM, Generative AI**
+- 🌱 Currently learning about **Generative AI**
 - 💬 Ping me about  **JavaScript, React.js, Node.js, Python and AI Development**,
-- 📫 Reach me from LinkedIn account
-- 💗💛 Fun fact: I'm a huge fan of Galatasaray
-
+- 📫 Reach me from e-mail
 
 
 <p align="center">
