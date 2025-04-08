@@ -1,4 +1,4 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+SUTOGLU;Welcome+to+my+Github+profile;I'm+Software+Engineer...;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yasin+SUTOGLU;Welcome+to+my+Github+profile;I'm+Software+Engineer+on+AI+specialty...;)](https://git.io/typing-svg)
 
 ##### SHORT BIO
 
